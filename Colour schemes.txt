@@ -57,3 +57,4 @@ window.snake.scheme({
   lightSquares: '#FFFFFF',
   darkSquares:  '#FFFFFF',
 });
+ 
